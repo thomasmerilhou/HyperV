@@ -1,3 +1,6 @@
+adminvm:
+   user.present:
+     - home: /home/adminvm
 adminitescia:
    user.present:
      - home: /home/adminitescia
